@@ -1,11 +1,11 @@
 import React from 'react';
 
-const BillingPage = () => {
+const BillingData = () => {
    return (
       <div>
-         Billing
+         
       </div>
    );
 };
 
-export default BillingPage;
+export default BillingData;
